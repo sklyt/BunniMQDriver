@@ -1,2 +1,7 @@
+node_modules
 consumer.js
+producer.js
 fastconsumer.js
+driver
+.gitignore
+.npmignore

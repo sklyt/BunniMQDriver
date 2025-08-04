@@ -4,6 +4,13 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  bunnimq: link:../Bunni
+
 importers:
 
-  .: {}
+  .:
+    dependencies:
+      bunnimq:
+        specifier: link:../Bunni
+        version: link:../Bunni

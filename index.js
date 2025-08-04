@@ -1,3 +1,3 @@
-import Bunnymq from "./lib/driver.js";
+import Bunnydriver from "./lib/driver.js";
 
-export default Bunnymq
+export default Bunnydriver

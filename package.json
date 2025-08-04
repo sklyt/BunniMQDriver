@@ -1,7 +1,7 @@
 {
-  "name": "bunnymq-driver",
-  "version": "1.0.0",
-  "description": "",
+  "name": "bunnimq-driver",
+  "version": "0.0.3",
+  "description": "client driver for bunnimq",
   "main": "index.js",
   "type": "module",
   "scripts": {
